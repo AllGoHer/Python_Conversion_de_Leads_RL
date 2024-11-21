@@ -1,2 +1,2 @@
-# Python_Conversion_de_Leads_RL
+# ESCUELA ONLINE DE NEGOCIOS
 Escuela EON - Conversión de Leads - Regresión Logística
